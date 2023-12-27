@@ -1,0 +1,80 @@
+﻿@model ProductsIndexViewModel
+
+@section breadcrumbs {
+<span>All Product</span>
+}
+
+
+<main>
+    <div class="grid-container category-index">
+        <form class="filter" method="get" asp-action="Index">
+            <label asp-for="Name">NameProduct</label>
+            <input type="text" placeholder="Name Product..." name="name" asp-for="Name">
+            <label asp-for="SupplierId"></label>
+            <select asp-for="SupplierId" asp-items="Model.Suppliers">
+                <option value="">No supplier</option>
+            </select>
+            <label asp-for="CategoryId"></label>
+            <select asp-for="CategoryId" asp-items="Model.Categories">
+                <option value="">No Category</option>
+            </select>
+            <button type="submit" class="blue-button">Search</button>
+        </form>
+        <a asp-action="Insert" class="blue-button create-button">Insert New Product</a>
+        <table>
+            <thead>
+                <tr>
+                    <th>Action</th>
+                    @*<th>ID</th>*@
+                    <th>Name</th>
+                    <th>Supplier</th>
+                    <th>Category</th>
+                    @*<th>Description</th>*@
+                    <th>Price</th>
+                    <th>Stock</th>
+                    <th>OnOrder</th>
+                    <th>Discontinue</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model.Products)
+                {
+                <tr>
+                    <td>
+                        <a asp-action="Update" asp-route-id="@product.Id" class="blue-button update-button">Edit</a>
+                        <a asp-action="Detail" asp-route-id="@product.Id" class="blue-button update-button">Detail</a>
+@*                        <a asp-action="Delete" asp-route-id="@product.Id" class="blue-button delete-button">Delete</a>*@
+                    </td>
+                    @*<td>@product.Id</td>*@
+                    <td>@product.Name</td>
+                    <td>@product.Supplier.CompanyName</td>
+                    <td>@product.Category.Name</td>
+                    @*<td>@product.Description</td>*@
+                    <td>Rp @product.Price.ToString("N2")</td>
+                    <td>@product.Stock</td>
+                    <td>@product.OnOrder</td>
+                    <td>@product.Discontinue</td>
+                </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="3">
+                        <div class="pagination">
+                            <div>page @Model.pagenationInfoViewModel.PageNumber of
+                                @Model.pagenationInfoViewModel.TotalPages</div>
+                            <div>
+                                @for (int p = 1; p <= Model.pagenationInfoViewModel.TotalPages; p++) { <a
+                                    asp-action="Index" asp-route-pageNumber="@p" asp-route-name="@Model.Name"
+                                    asp-route-pageSize="@Model.pagenationInfoViewModel.PageSize">
+                                    @p
+                                    </a>
+                                    }
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</main>

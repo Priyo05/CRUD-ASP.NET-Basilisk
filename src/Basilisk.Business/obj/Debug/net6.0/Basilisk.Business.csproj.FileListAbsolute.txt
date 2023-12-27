@@ -1,0 +1,165 @@
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.deps.json
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CopyComplete
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\refint\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\ref\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CopyComplete
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\refint\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\ref\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CopyComplete
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\refint\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\ref\Basilisk.Business.dll
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.deps.json
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.dll
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.pdb
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.AssemblyReference.cache
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfoInputs.cache
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfo.cs
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CoreCompileInputs.cache
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CopyComplete
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.dll
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\refint\Basilisk.Business.dll
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.pdb
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\ref\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CopyComplete
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\refint\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\ref\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CopyComplete
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\refint\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\ref\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CopyComplete
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\refint\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\ref\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CopyComplete
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\refint\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\ref\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CopyComplete
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\refint\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\ref\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CopyComplete
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\refint\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\ref\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.csproj.CopyComplete
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\refint\Basilisk.Business.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\Basilisk.Business.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.Business\obj\Debug\net6.0\ref\Basilisk.Business.dll

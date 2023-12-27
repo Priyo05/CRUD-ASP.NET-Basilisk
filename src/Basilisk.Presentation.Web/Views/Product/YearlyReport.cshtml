@@ -1,0 +1,31 @@
+﻿@model ProductDetailsViewModel
+
+@section breadcrumbs {
+<span> <a asp-action="Index">All Product</a> / <a asp-action="Detail" asp-route-id="@Model.Id">Detail</a> / Yearly </span>
+}
+
+<div class="grid-container category-index">
+
+
+<main>
+    <table>
+        <thead>
+            <tr>
+                <th>Year</th>
+                <th>Sold</th>
+                <th>Net Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var order in Model.YearlyReports)
+            {                
+                <tr>
+                    <td>@order.Year</td>
+                    <td>@order.Sold</td>
+                    <td>Rp @order.Total.ToString("N2")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</main>
+</div>

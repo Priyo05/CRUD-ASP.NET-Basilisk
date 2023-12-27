@@ -1,0 +1,40 @@
+﻿@model CategoryViewModel
+
+@section breadcrumbs {
+<span> <a asp-action="Index">All Category</a> /Insert </span>
+@*    @if(Model == null || Model.Id == null)
+    {
+        <Span>Insert</Span>
+    }
+    else
+    {
+        <Span>Update</Span>
+    }*@
+}
+
+<main>
+    <form class="upsert-form" asp-action="Insert" method="post" >
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <label asp-for="Name">Name</label>
+                    </td>
+                    <td>
+                        <input asp-for="Name" type="text" id="name" name="name">
+                        <span asp-validation-for="Name"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="textarea-label">
+                        <label asp-for="Description">Description</label>
+                    </td>
+                    <td>
+                        <textarea asp-for="Description" id="description" name="description"></textarea>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <button type="submit" class="blue-button">Submit New Category</button>
+    </form>
+</main>

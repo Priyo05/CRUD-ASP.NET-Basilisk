@@ -1,0 +1,31 @@
+﻿@model CategoryViewModel
+
+@section breadcrumbs {
+<span> <a asp-action="Index">All Category</a> /Update</span>
+}
+
+<main>
+    <form class="upsert-form" method="post" asp-action="Update">
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <label asp-for="Name">Name</label>
+                    </td>
+                    <td>
+                        <input asp-for="Name" type="text" id="name" name="name" value="@Model.Name">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="textarea-label">
+                        <label asp-for="Description">Description</label>
+                    </td>
+                    <td>
+                        <textarea asp-for="Description" id="description" name="description">@Model.Description</textarea>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <button type="submit" class="blue-button">Submit New Category</button>
+    </form>
+</main>

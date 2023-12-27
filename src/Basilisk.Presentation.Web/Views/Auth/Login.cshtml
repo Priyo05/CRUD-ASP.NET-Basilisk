@@ -1,0 +1,70 @@
+﻿@{
+    Layout = "_AccountLayout";
+}
+
+
+<body class="authentication-body">
+  <div class="authentication-wrapper">
+    <main>
+        <h1>Sign In</h1>
+        @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div>
+            <span style="color: red;">@ViewBag.ErrorMessage</span>
+        </div>
+    }
+        <form id="formlogin" method="post" asp-action="Login">
+            <input type="text" id="username" name="username" placeholder="username" autocomplete="off">
+            <input type="password" id="password" name="password" placeholder="password">
+            <div class="remember-me-container">
+                <input type="checkbox" name="remember-me" id="remember-me">
+                <label for="remember-me">Remember Me</label>
+            </div>
+            <button id="login" type="submit">sign in</button>
+        </form>
+        <div class="link-container">
+            <a asp-action="Register">Click here to register</a>
+        </div>
+    </main>
+  </div>
+</body>
+
+
+<script asp-append-version="true" defer>
+    (function () {
+        login();
+    }())
+
+
+    function login() {
+        let buttonLogin = document.querySelector('#login');
+        buttonLogin.addEventListener('click', function (e) {
+            e.preventDefault();
+            let username = document.querySelector('#username').value;
+            let password = document.querySelector('#password').value;
+            let data = {
+                "username": username,
+                "password": password
+            };
+            let url = `http://localhost:5231/Auth/Login`;
+            let request = new XMLHttpRequest();
+            request.open('POST', url);
+            request.setRequestHeader("Content-Type", "application/json");
+            request.send(JSON.stringify(data));
+            request.onload = () => {
+                let result = JSON.parse(request.response);
+                if (result.status === 404) {
+                    console.log("login salah")
+                } else {
+                    console.log("login berhasil")
+                    localStorage.setItem("token", result.token);
+                    submitFormAfterLogin();
+                }
+            }
+        })
+    }
+    function submitFormAfterLogin() {
+        document.querySelector('#formlogin').submit();
+    }
+</script>
+

@@ -1,0 +1,78 @@
+﻿@model ProductDetailsViewModel
+
+@section breadcrumbs {
+<span> <a asp-action="Index">All Product</a> / Detail </span>
+}
+
+<main>
+    <table>
+        <tbody>
+        <tr>
+            <td>
+                <label>Name</label>
+            </td>
+            <td>
+                <span>: @Model.ProductViewModel.Name</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Price</label>
+            </td>
+            <td>
+                <span>: Rp @Model.ProductViewModel.Price.ToString("N2")</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Supplier</label>
+            </td>
+            <td>
+                <span>: @Model.ProductViewModel.Supplier.CompanyName</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Category</label>
+            </td>
+            <td>
+                <span>: @Model.ProductViewModel.Category.Name</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Stock</label>
+            </td>
+            <td>
+                <span>: @Model.ProductViewModel.Stock</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>On Order</label>
+            </td>
+            <td>
+                <span>: @Model.ProductViewModel.OnOrder</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Discontinue</label>
+            </td>
+            <td>
+                <span>: @Model.ProductViewModel.Discontinue</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Description</label>
+            </td>
+            <td>
+                <span>: @Model.ProductViewModel.Description</span>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+        <a asp-action="YearlyReport" asp-controller="Product" asp-route-id="@Model.ProductViewModel.Id" class="blue-button update-button">Yearly Report</a>
+        <a asp-action="MonthlyReport" asp-controller="Product" asp-route-id="@Model.ProductViewModel.Id" class="blue-button update-button">Monthly Report</a>
+</main>

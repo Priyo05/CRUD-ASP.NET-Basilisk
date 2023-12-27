@@ -1,0 +1,31 @@
+﻿@model UserRegisterViewModel
+
+@{
+    Layout = "_AccountLayout";
+}
+
+<body class="authentication-body">
+  <div class="authentication-wrapper">
+    <main>
+        <h1>Sign Up</h1>
+        <form method="post" asp-action="Register">
+    
+            <div class="field-validation-error"></div>
+    
+            <input asp-for="Username" type="text" placeholder="username">
+            <span asp-validation-for="Username"></span>
+            <input asp-for="Password" type="password" placeholder="password">
+            <input asp-for="RetypePassword" type="password" placeholder="confirm password">
+            <span asp-validation-for="RetypePassword"></span>
+            <select asp-for="Role" asp-items="Model.Roles">
+                <option value="">Please Select a Role</option>
+            </select>
+            <button type="submit">sign up</button>
+        </form>
+        <div class="link-container">
+            <a asp-action="Login">Click here to login</a>
+        </div>
+    </main>
+    
+  </div>
+</body>

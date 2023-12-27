@@ -1,0 +1,153 @@
+﻿@section breadcrumbs{
+    <span>Supplier</span>
+}
+
+
+
+
+<div class="grid-container category-index">
+    <form class="filter">
+         <label >Name Supplier</label>
+         <input type="text" placeholder="Name Supplier..." name="name" >
+         <button type="submit" class="blue-button">Search</button>
+    </form>
+    <a  asp-action="Insert" class="blue-button create-button">Insert New Supplier</a>
+    <table>
+        <thead>
+            <tr>
+                <th>Action</th>
+                <th>Company Name</th>
+                <th>Contact Person</th>
+                <th>Job Title</th>
+            </tr>
+        </thead>
+        <tbody class="supplierList">
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3">
+                    <div class="pagination">
+                        <div>page of  </div>
+                        <div>
+
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+
+<div class="modal-layer">
+    <div class="popup-dialog contact-dialog">
+        <header>
+            <h1>Supplier Contact</h1>
+            <a href="javascript:;" class="close-button">
+                <i class="fas fa-window-close"></i>
+            </a>
+        </header>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Address</td>
+                    <td class="address"></td>
+                </tr>
+                <tr>
+                    <td>City</td>
+                    <td class="city"></td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td class="email"></td>
+                </tr>
+                <tr>
+                    <td>Phone</td>
+                    <td class="phone"></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="popup-dialog form-dialog">
+        <header>
+            <h1>Supplier Form</h1>
+            <a href="javascript:;" class="close-button">
+                <i class="fas fa-window-close"></i>
+            </a>
+        </header>
+        <form>
+            <input type="hidden" class="id">
+            <table>
+                <tbody>
+                    <tr>
+                        <td>Company Name*</td>
+                        <td>
+                            <input type="text" class="companyName">
+                            <div class="validation-message" data-for="companyName"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Contact Person*</td>
+                        <td>
+                            <input type="text" class="contactPerson">
+                            <div class="validation-message" data-for="contactPerson"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Job Title*</td>
+                        <td>
+                            <input type="text" class="jobTitle">
+                            <div class="validation-message" data-for="jobTitle"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="textarea-label">Address</td>
+                        <td>
+                            <textarea class="address"></textarea>
+                            <div class="validation-message" data-for="address"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>City</td>
+                        <td>
+                            <input type="text" class="city">
+                            <div class="validation-message" data-for="city"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Email</td>
+                        <td>
+                            <input type="text" class="email">
+                            <div class="validation-message" data-for="email"></div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Phone</td>
+                        <td>
+                            <input type="text" class="phone">
+                            <div class="validation-message" data-for="phone"></div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <button type="submit" class="blue-button">Save Category</button>
+        </form>
+    </div>
+
+    <div class="popup-dialog delete-dialog">
+        <header>
+            <h1>Delete Supplier</h1>
+            <a href="javascript:;" class="close-button">
+                <i class="fas fa-window-close"></i>
+            </a>
+        </header>
+        <form>
+            <input type="hidden" class="id">
+            <p>Apakah anda yakin ingin menghapus category ini?</p>
+            <button class="blue-button remove-button" type="submit">Remove</button>
+        </form>
+    </div>
+</div>
+
+
+<script src="~/js/supplier/supplier-popup.js" asp-append-version="true" defer></script>

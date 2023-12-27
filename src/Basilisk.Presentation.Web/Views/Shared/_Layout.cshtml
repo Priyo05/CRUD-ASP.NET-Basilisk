@@ -1,0 +1,60 @@
+﻿@using System.Security.Claims
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <partial name="_Head" />
+</head>
+
+<body class="main-body">
+    <header>
+        <div class="bread-crumbs">
+            @RenderSection("breadcrumbs",true)
+        </div>
+        <div class="user-wrapper">
+            <div class="user">
+                 <a class="full-name" asp-controller="Account" asp-action="Change" >@User.FindFirst("username").Value</a>
+                 <span class="role">@User.FindFirst(ClaimTypes.Role).Value</span>
+            </div>
+            <div class="sign-out">
+                <form id="formlogout" asp-action="logout" asp-controller="Auth" method="post">
+                    <button id="logout" type="submit">
+                        <i class="fas fa-sign-out-alt"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </header>
+    <nav>
+        <partial name="_Navigation" />
+    </nav>
+    <main>
+        @RenderBody()
+    </main>
+    <footer>
+        <partial name="_Footer" />
+    </footer>
+</body>
+
+</html>
+
+<script defer>
+    (function(){
+        logout();
+    })();
+
+    function logout(){
+        let buttonlogout = document.querySelector('#logout');
+        buttonlogout.addEventListener('click', function (e) {
+            e.preventDefault();
+            localStorage.removeItem('token');
+            submitFormLogout();
+        })
+    }
+
+    function submitFormLogout(){
+        document.querySelector('#formlogout').submit();
+    }
+
+</script>

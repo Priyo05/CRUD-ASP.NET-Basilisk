@@ -1,0 +1,194 @@
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framwork C#\1. solution\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framwork C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framework C#\2. EntityFramework\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framework C#\3. Business Layer\1 Repository\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\1 Showing Data From Databases\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\2. Templeting\2. Templeting\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\4. Validasi\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\5. Web Server API\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\6. OpenAPI\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\7. Web Security\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.deps.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.runtimeconfig.json
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\bin\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.AssemblyReference.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfoInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.AssemblyInfo.cs
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\refint\Basilisk.DataAccess.dll
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.pdb
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\Basilisk.DataAccess.genruntimeconfig.cache
+C:\Users\1913\Desktop\Framework C#\4. Presentation Layer\8. JWwT\8. JWT\Basilisk\src\Basilisk.DataAccess\obj\Debug\net6.0\ref\Basilisk.DataAccess.dll

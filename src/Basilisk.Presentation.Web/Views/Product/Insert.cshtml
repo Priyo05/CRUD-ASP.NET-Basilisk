@@ -1,0 +1,90 @@
+﻿@model ProductViewModel
+
+@section breadcrumbs {
+<span> <a asp-action="Index">All Product</a> /Insert </span>
+
+}
+
+<main>
+    <form class="upsert-form" asp-action="Insert" method="post" >
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <label asp-for="Name">Name</label>
+                    </td>
+                    <td>
+                        <input asp-for="Name" type="text">
+                        <span asp-validation-for="Name"></span>
+                    </td>                    
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="SupplierId"></label>
+                    </td>
+                    <td>
+                        <select asp-for="SupplierId" asp-items="Model.Suppliers">
+                            <option value="">No Supplier</option>
+                        </select>
+                        <span asp-validation-for="SupplierId"></span>
+                    </td> 
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="CategoryId"></label>
+                    </td>
+                    <td>
+                        <select asp-for="CategoryId" asp-items="Model.Categories">
+                            <option value="">No Category</option>
+                        </select>
+                        <span asp-validation-for="CategoryId" ></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="textarea-label">
+                        <label asp-for="Description">Description</label>
+                    </td>
+                    <td>
+                        <textarea asp-for="Description" ></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="Price">Price</label>
+                    </td>
+                    <td>
+                        <input asp-for="Price" type="text">
+                        <span asp-validation-for="Price"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="Stock">Stock</label>
+                    </td>
+                    <td>
+                        <input asp-for="Stock" type="number" >
+                         <span asp-validation-for="Stock"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="OnOrder"></label>
+                    </td>
+                    <td>
+                        <input asp-for="OnOrder" type="number" >
+                        <span asp-validation-for="OnOrder"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label asp-for="Discontinue">Discontinue</label>
+                    </td>
+                    <td>
+                        <input asp-for="Discontinue" type="checkbox" >
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <button type="submit" class="blue-button">Submit New Product</button>
+    </form>
+</main>

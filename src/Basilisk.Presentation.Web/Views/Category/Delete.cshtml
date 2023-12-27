@@ -1,0 +1,14 @@
+﻿@model int
+
+@section breadcrumbs {
+    <span> <a asp-action="Index">All Category</a> / Delete</span>
+}
+
+<main>
+    <div class="fail-container">
+        <p>Ada @Model child content yang ditemukan masih termasuk ke dalam category ini.</p>
+        <p>Anda tidak bisa menghapus parent content ini selama data child itu masih berada di dalam database.</p>
+        <p>Silahkan contact IT department untuk penjelasan lebih detail.</p>
+    </div>
+    <a class="blue-button" asp-action="Index">Back to Index</a>
+</main>

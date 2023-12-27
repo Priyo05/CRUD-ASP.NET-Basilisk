@@ -1,0 +1,59 @@
+﻿@model AccountChangeViewModel
+@using System.Security.Claims
+
+@{
+    Layout = "_AccountLayout";
+}
+
+<main>
+      <form class="upsert-form" method="post" asp-action="Change">
+          <table>
+              <tbody>
+              <tr>
+                  <td>
+                      <label asp-for="Username">Username</label>
+                  </td>
+                  <td>
+                      <input type="text" readonly asp-for="Username" value="@User.FindFirst("username").Value">
+                      @*<span>@User.FindFirst("username").Value</span>*@
+                  </td>
+              </tr>
+              <tr>
+                  <td>
+                      <label>Old Password</label>
+                        @if (ViewBag.ErrorMessage != null)
+                        {
+                            <div>
+                                <span style="color: red;">@ViewBag.ErrorMessage</span>
+                            </div>
+                        }
+                  </td>
+                  <td>
+                      <input asp-for="OldPassword" type="password">
+                      <span asp-validation-for="OldPassword" ></span>
+                  </td>
+              </tr>
+              <tr>
+                  <td>
+                      <label>New Password</label>
+                  </td>
+                  <td>
+                      <input asp-for="NewPassword" type="password">
+                      <span asp-validation-for="NewPassword" ></span>
+                  </td>
+              </tr>
+              <tr>
+                  <td>
+                      <label>New Password Confirmation</label>
+                  </td>
+                  <td>
+                      <input asp-for="ConfirmNewPassword" type="password">
+                      <span asp-validation-for="ConfirmNewPassword" ></span>
+                  </td>
+              </tr>
+              </tbody>
+          </table>
+          <button type="submit">Change Password</button>
+      </form>
+          <a asp-controller="Home" asp-action="DashBoard">Kembali ke landing page</a>
+</main>

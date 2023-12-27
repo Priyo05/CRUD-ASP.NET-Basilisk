@@ -1,0 +1,61 @@
+﻿@model CategoryIndexViewModel
+
+@section breadcrumbs {
+<span>All Category</span>
+}
+
+
+<main>
+    <div class="grid-container category-index">
+        <form class="filter" method="get" asp-action="Index">
+            <input type="text" placeholder="Content Name..." name="name" asp-for="Name">
+            <button type="submit" class="blue-button">Search</button>
+        </form>
+        <a asp-action="Insert" class="blue-button create-button">Insert New Content</a>
+        <table>
+            <thead>
+                <tr>
+                    <th>Action</th>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var category in Model.Categories)
+                {
+                <tr>
+                    <td>
+                        <a asp-action="Update" asp-route-id="@category.Id" class="blue-button update-button">Update</a>
+                        <a asp-action="Delete" asp-route-id="@category.Id" class="blue-button delete-button">Delete</a>
+                        <a asp-action="Relationship" asp-route-id="@category.Id" class="blue-button detail-button">Relationship</a>
+                    </td>
+                    <td>@category.Id</td>
+                    <td>@category.Name</td>
+                    <td>@category.Description</td>
+                </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="3">
+                        <div class="pagination">
+                            <div>page @Model.pagenationInfoViewModel.PageNumber of @Model.pagenationInfoViewModel.TotalPages</div>
+                            <div>
+                                    @for (int p = 1; p <= Model.pagenationInfoViewModel.TotalPages; p++) 
+                                        { 
+                                            <a asp-action="Index"
+                                               asp-route-pageNumber="@p"
+                                               asp-route-name="@Model.Name"
+                                               asp-route-pageSize="@Model.pagenationInfoViewModel.PageSize">
+                                               @p
+                                               </a>
+                                        }
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</main>

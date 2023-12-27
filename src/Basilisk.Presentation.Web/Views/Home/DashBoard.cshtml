@@ -1,0 +1,23 @@
+﻿@using System.Security.Claims
+@section breadcrumbs {
+
+
+    @if (@User.FindFirst(ClaimTypes.Role).Value.Equals("Administrator"))
+    {
+        <span>Dashboard Administrator</span>
+    }else if (@User.FindFirst(ClaimTypes.Role).Value.Equals("Finance"))
+    {
+        <span>Dashboard Finance</span>
+
+    } else if (@User.FindFirst(ClaimTypes.Role).Value.Equals("Salesman"))
+    {
+        <span>Dashboard Salesman</span>
+        
+    }
+
+
+}
+
+<main>
+
+</main>
